@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Joshua 👋
+I'm a Software Engineering student at the University of Texas at Arlington, passionate about building web applications and improving my software development skills.
+Technologies I'm working with
+JavaScript
+HTML
+CSS
+C#
+PHP
+SQL
+Git
 
-<!--
-**joshuagarrido/joshuagarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on
+- Building practical software projects
+- Improving my full-stack development skills
+- Preparing for software engineering internships
+Connect with me
+LinkedInGitHub
