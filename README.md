@@ -14,4 +14,5 @@ Currently focused on
 - Improving my full-stack development skills
 - Preparing for software engineering internships
 Connect with me
-LinkedInGitHub
+[LinkedIn](https://www.linkedin.com/in/joshua-garrido-8801a3223/?isSelfProfile=true)
+[GitHub](https://github.com/joshuagarrido)
